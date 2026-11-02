@@ -1,0 +1,5962 @@
+{
+ "source": "https://emboparts.com",
+ "generated": "2026-11-02",
+ "tables": 80,
+ "rows": 568,
+ "data": [
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB Lite series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-Lite",
+     "101:1",
+     "5",
+     "11",
+     "0.26 kg",
+     "Φ48 × 45.5",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-Lite",
+     "101:1",
+     "20",
+     "45",
+     "0.46 kg",
+     "Φ58 × 58.0",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-Lite",
+     "101:1",
+     "33",
+     "82",
+     "0.74 kg",
+     "Φ68 × 73.3",
+     "Φ18",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB DNN base series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-DNN",
+     "101:1",
+     "6.5",
+     "16",
+     "0.27 kg",
+     "Φ48 × 53.6",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-DNN",
+     "101:1",
+     "20",
+     "45",
+     "0.55 kg",
+     "Φ58 × 65.2",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-DNN",
+     "101:1",
+     "33",
+     "82",
+     "0.83 kg",
+     "Φ68 × 77.6",
+     "Φ12",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RB-R83-101-DNN",
+     "101:1",
+     "53",
+     "120",
+     "1.26 kg",
+     "Φ83 × 78.8",
+     "Φ12",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB FBN waist series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R83-101-FBN",
+     "101:1",
+     "53",
+     "120",
+     "1.40 kg",
+     "Φ83 × 74.0",
+     "Φ12",
+     "Waist"
+    ],
+    [
+     "CE-RB-R102-161-FBN",
+     "161:1",
+     "147",
+     "350",
+     "2.20 kg",
+     "Φ102 × 90.3",
+     "Φ20",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-161-FBN",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 110.3",
+     "Φ23",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-MAX-161-FBN",
+     "161:1",
+     "300",
+     "600",
+     "4.60 kg",
+     "Φ120 × 125.0",
+     "Φ23",
+     "Waist"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RBV3 performance series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RBV3-R68-101",
+     "101:1",
+     "33",
+     "82",
+     "1.15 kg",
+     "Φ68 × 82.6",
+     "—",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RBV3-R83-101",
+     "101:1",
+     "53",
+     "120",
+     "1.60 kg",
+     "Φ83 × 79.3",
+     "—",
+     "Shoulder, waist"
+    ],
+    [
+     "CE-RBV3-R102-161",
+     "161:1",
+     "147",
+     "350",
+     "2.60 kg",
+     "Φ102 × 89.6",
+     "—",
+     "Waist, knee"
+    ],
+    [
+     "CE-RBV3-R120-161",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 116.3",
+     "—",
+     "Waist, knee"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RMV3 industrial series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "CE-RMV3-R52",
+     "51:1",
+     "3.5",
+     "8.3",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R52",
+     "101:1",
+     "5.0",
+     "11",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R70",
+     "51:1",
+     "7",
+     "23",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R70",
+     "101:1",
+     "10",
+     "36",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "51:1",
+     "21",
+     "44",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "101:1",
+     "31",
+     "70",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "51:1",
+     "33",
+     "73",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "101:1",
+     "52",
+     "107",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R110",
+     "51:1",
+     "51",
+     "127",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R110",
+     "101:1",
+     "87",
+     "204",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R142",
+     "101:1",
+     "178",
+     "433",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R142",
+     "161:1",
+     "178",
+     "484",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R170",
+     "101:1",
+     "345",
+     "738",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ],
+    [
+     "CE-RMV3-R170",
+     "161:1",
+     "382",
+     "841",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — HRV1 7-DOF arms",
+   "columns": [
+    "Version",
+    "Reach",
+    "Weight (per arm)",
+    "Payload",
+    "Control",
+    "Modules",
+    "Torque sensor",
+    "Brakes"
+   ],
+   "rows": [
+    [
+     "3 kg data-collection",
+     "892 mm",
+     "4.65 kg",
+     "3 kg",
+     "CANopen / CAN-FD",
+     "RBV1 R48/R58/R68",
+     "No",
+     "No"
+    ],
+    [
+     "3 kg force-control",
+     "892 mm",
+     "5 kg",
+     "3 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R48/R58/R68",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "15 kg force-control",
+     "950 mm",
+     "20 kg",
+     "15 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R83/R102/R120",
+     "Yes",
+     "Yes"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/crabnova/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — wheeled embodied robots",
+   "columns": [
+    "Model",
+    "Dimensions (mm)",
+    "Weight",
+    "DOF",
+    "Grippers",
+    "Module configuration"
+   ],
+   "rows": [
+    [
+     "A0 lifting wheeled",
+     "approx. 1640 × 550 × 600",
+     "110 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A1 lifting wheeled",
+     "approx. 1855 × 550 × 600",
+     "100 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A2 folding wheeled",
+     "approx. 1791 × 550 × 600",
+     "120 kg",
+     "30",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · waist RBV1 R120-FBN × 2, R102-FBN × 2 · base R80 × 4"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/damiao/",
+   "section": "Selection tables",
+   "table": "DAMIAO — DM-JH harmonic joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight",
+    "Rated speed",
+    "Comms"
+   ],
+   "rows": [
+    [
+     "DM-JH11-51-2EC",
+     "3.2",
+     "7.8",
+     "51:1",
+     "Φ52 × 60",
+     "345 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH11-101-2EC",
+     "4.8",
+     "10.5",
+     "101:1",
+     "Φ52 × 60",
+     "345 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-51-2EC",
+     "5.4",
+     "18",
+     "51:1",
+     "Φ70 × 70",
+     "775 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-101-2EC",
+     "7.8",
+     "28",
+     "101:1",
+     "Φ70 × 70",
+     "775 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-51-2EC",
+     "16",
+     "24",
+     "51:1",
+     "Φ80 × 70",
+     "985 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-101-2EC",
+     "24",
+     "54",
+     "101:1",
+     "Φ80 × 70",
+     "985 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-51-2EC",
+     "32",
+     "69",
+     "51:1",
+     "Φ90 × 73",
+     "to confirm",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-101-2EC",
+     "50",
+     "102",
+     "101:1",
+     "Φ90 × 73",
+     "628 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/damiao/",
+   "section": "Selection tables",
+   "table": "DAMIAO — DM-J planetary joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "DM-J3507-2EC",
+     "0.8",
+     "3",
+     "7:1",
+     "Φ46 × 37.9",
+     "150 g"
+    ],
+    [
+     "DM-J4310-2EC V1.1",
+     "3",
+     "7",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310-2EC V1.2",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310P-2EC",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 49.05",
+     "330 g"
+    ],
+    [
+     "DM-J4310M-2EC",
+     "5.2",
+     "18",
+     "10:1",
+     "Φ57 × 53.3",
+     "370 g"
+    ],
+    [
+     "DM-J4340-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340P-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J4340P-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J6006-2EC",
+     "4",
+     "11",
+     "6:1",
+     "Φ76 × 36.5",
+     "335 g"
+    ],
+    [
+     "DM-J6216L-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6216P-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6248P-2EC",
+     "30",
+     "97",
+     "48:1",
+     "Φ76 × 62.5",
+     "660 g"
+    ],
+    [
+     "DM-J8006-2EC V1.1",
+     "8",
+     "20",
+     "6:1",
+     "Φ96 × 40",
+     "559 g"
+    ],
+    [
+     "DM-J8009-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "896 g"
+    ],
+    [
+     "DM-J8009P-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "963 g"
+    ],
+    [
+     "DM-J8520P-2EC",
+     "50",
+     "176",
+     "20:1",
+     "Φ90 × 70",
+     "1392 g"
+    ],
+    [
+     "DM-J10010L-2EC",
+     "40",
+     "120",
+     "10:1",
+     "Φ120 × 53",
+     "1375 g"
+    ],
+    [
+     "DM-J10010-2EC",
+     "40",
+     "150",
+     "10:1",
+     "Φ112 × 62",
+     "1485 g"
+    ],
+    [
+     "DM-J10422P-2EC",
+     "100",
+     "400",
+     "22:1",
+     "Φ110 × 89.9",
+     "2700 g"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/eyou/",
+   "section": "Selection tables",
+   "table": "EYOU — PHA lightweight series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight",
+    "Voltage"
+   ],
+   "rows": [
+    [
+     "PHA08L-101-C",
+     "Φ43 × 48.3",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "207 g",
+     "24–36 V"
+    ],
+    [
+     "PHA11H-101-C",
+     "Φ52 × 55.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "375 g",
+     "24–48 V"
+    ],
+    [
+     "PHA14H-101-C",
+     "Φ70 × 61.5",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "645 g",
+     "—"
+    ],
+    [
+     "PHA17H-101-C",
+     "Φ80 × 68",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "900 g",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/eyou/",
+   "section": "Selection tables",
+   "table": "EYOU — PHU enhanced series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "51:1",
+     "1.25",
+     "1.6",
+     "2.3",
+     "4.6",
+     "196 g"
+    ],
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "196 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "403 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "403 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "543 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "543 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "51:1",
+     "6.6",
+     "8.6",
+     "23",
+     "43",
+     "812 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "812 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "51:1",
+     "19.8",
+     "32",
+     "42",
+     "86",
+     "1143 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "1143 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "81:1",
+     "42",
+     "58",
+     "91",
+     "158",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "101:1",
+     "50",
+     "61",
+     "102",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "121:1",
+     "50",
+     "61",
+     "108",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "81:1",
+     "78",
+     "107",
+     "169",
+     "315",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "101:1",
+     "84",
+     "133",
+     "194",
+     "351",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "121:1",
+     "84",
+     "133",
+     "207",
+     "376",
+     "2354 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "101:1",
+     "169",
+     "267",
+     "411",
+     "800",
+     "5650 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "121:1",
+     "169",
+     "267",
+     "436",
+     "848",
+     "5650 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "101:1",
+     "320",
+     "460",
+     "702",
+     "1334",
+     "8520 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "121:1",
+     "320",
+     "557",
+     "762",
+     "1458",
+     "8520 g"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/eyou/",
+   "section": "Selection tables",
+   "table": "EYOU — RHU humanoid series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "50:1",
+     "3.7",
+     "4.8",
+     "12",
+     "24",
+     "382 g"
+    ],
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "100:1",
+     "5.4",
+     "7.7",
+     "19",
+     "35",
+     "382 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "50:1",
+     "11",
+     "18",
+     "23",
+     "48",
+     "521 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "100:1",
+     "16",
+     "27",
+     "37",
+     "71",
+     "521 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "50:1",
+     "17",
+     "24",
+     "39",
+     "69",
+     "811 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "100:1",
+     "28",
+     "34",
+     "57",
+     "95",
+     "811 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "50:1",
+     "27",
+     "38",
+     "69",
+     "127",
+     "1266 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "100:1",
+     "47",
+     "75",
+     "110",
+     "184",
+     "1266 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "120:1",
+     "124",
+     "197",
+     "270",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "160:1",
+     "169",
+     "267",
+     "459",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "120:1",
+     "248",
+     "448",
+     "648",
+     "1458",
+     "5820 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "160:1",
+     "363",
+     "557",
+     "800",
+     "1458",
+     "5820 g"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/eyou/",
+   "section": "Selection tables",
+   "table": "EYOU — RP humanoid planetary joints",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Through-bore",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "RP40C",
+     "Φ45 × 52",
+     "Φ4",
+     "215 g",
+     "25:1",
+     "25",
+     "120",
+     "2",
+     "6"
+    ],
+    [
+     "RP50L",
+     "Φ59 × 53.5",
+     "Φ5",
+     "410 g",
+     "19.53:1",
+     "79",
+     "150",
+     "5",
+     "15"
+    ],
+    [
+     "RP50H",
+     "Φ59 × 59.5",
+     "Φ5",
+     "465 g",
+     "19.53:1",
+     "157",
+     "150",
+     "10",
+     "30"
+    ],
+    [
+     "RP70L",
+     "Φ77 × 52.5",
+     "Φ6",
+     "670 g",
+     "20:1",
+     "163",
+     "130",
+     "12",
+     "36"
+    ],
+    [
+     "RP70H",
+     "Φ77 × 58.3",
+     "Φ6",
+     "760 g",
+     "20:1",
+     "223",
+     "125",
+     "17",
+     "60"
+    ],
+    [
+     "RP90L",
+     "Φ96.5 × 56",
+     "Φ8",
+     "1075 g",
+     "21.91:1",
+     "421",
+     "115",
+     "35",
+     "120"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/eyou/",
+   "section": "Selection tables",
+   "table": "EYOU — PP planetary joint modules",
+   "columns": [
+    "Model",
+    "OD",
+    "Length",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "PP05",
+     "Φ32",
+     "34.2 mm",
+     "86 g",
+     "6:1",
+     "35",
+     "50",
+     "0.2",
+     "0.48"
+    ],
+    [
+     "PP08",
+     "Φ40",
+     "56.4 mm",
+     "189 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP08D",
+     "Φ40",
+     "47.7 mm",
+     "199 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP11",
+     "Φ52",
+     "67.6 mm",
+     "390 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11D",
+     "Φ52",
+     "61.2 mm",
+     "437 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11L",
+     "Φ52",
+     "84.3 mm",
+     "521 g",
+     "36:1",
+     "72",
+     "50",
+     "10",
+     "18"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/linkerbot/",
+   "section": "Selection tables",
+   "table": "Linker Hand range",
+   "columns": [
+    "Model",
+    "Positioning",
+    "Key specs",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Linker Hand O30",
+     "Humanoid platform hand",
+     "Tactile options, full sensing",
+     "Flagship platform hand, award-winning"
+    ],
+    [
+     "Linker Hand O20",
+     "16 DOF direct drive",
+     "~888 g, 20 kg rated / 36 kg peak, CAN-FD up to 1000 Hz",
+     "Self-locking hold for industrial precision assembly and heavy loads"
+    ],
+    [
+     "Linker Hand L30 Pro",
+     "22 DOF",
+     "15 kg payload, ~1.2 kg, CAN-FD 900 Hz",
+     "Tendon-driven with fingertip tactile array"
+    ],
+    [
+     "Linker Hand L20",
+     "High-DOF general purpose",
+     "—",
+     "Balanced payload and dexterity"
+    ],
+    [
+     "Linker Hand L20 Lite",
+     "10 active + 10 passive DOF",
+     "Worm-gear + linkage hybrid",
+     "Value-oriented high-DOF hand"
+    ],
+    [
+     "Linker Hand L6",
+     "6 active + 5 passive DOF",
+     "607 g, 28 kg payload, CAN / RS-485",
+     "Industrial-grade, tested over 1M cycles"
+    ],
+    [
+     "Linker Hand O6",
+     "6 active + 5 passive DOF",
+     "360 g, up to 50 kg payload",
+     "Aerospace-grade aluminium, entry price point"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/linkerbot/",
+   "section": "Selection tables",
+   "table": "Arms, gloves and teleoperation",
+   "columns": [
+    "Device",
+    "Role",
+    "Key specs"
+   ],
+   "rows": [
+    [
+     "Linker Arm A7",
+     "7-DOF arm to carry the hand",
+     "7 DOF, 5.9 kg, 600 mm working radius, 3 kg rated load, 48 V, CAN / RS485, 500 W max"
+    ],
+    [
+     "Linker Arm P7",
+     "Lightweight 7-DOF arm, planetary joints",
+     "7 DOF, 5.6 kg, 608 mm radius, 3 kg rated load, ±0.043 mm repeatability, CAN, 48 V, 258 W peak"
+    ],
+    [
+     "Linker Arm H75",
+     "Precision 7-axis harmonic arm",
+     "7 DOF, 8.25 kg, 640 mm radius, 5 kg rated load, ±0.027 mm repeatability, CAN / CAN FD, 48 V"
+    ],
+    [
+     "Linker EG (LEG1-02)",
+     "Exoskeleton teleoperation glove",
+     "15 sensors, 0.1° capture accuracy, 190 g per glove, ESP-NOW 20–30 Hz, <10 ms latency, 3.2 h battery"
+    ],
+    [
+     "Linker FFG (LFFG1-02/03)",
+     "Force-feedback glove",
+     "21 DOF, force simulation on the operator side, wired 100 Hz / wireless 30 Hz"
+    ],
+    [
+     "Linker MCG (LMCG1-01)",
+     "Lightweight motion capture glove",
+     "7 sensors per glove, ≤0.001° resolution, 2.4 GHz wireless, on-board gesture recognition"
+    ],
+    [
+     "Linker TA (LTA1)",
+     "Chest-mounted teleoperation arm",
+     "14 DOF, 658 mm span, 1.4 kg, CAN 1 Mbps, 200 Hz sampling"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/ti5/",
+   "section": "Selection tables",
+   "table": "Ti5 Robotics — PRO and PRO-S rotary actuators",
+   "columns": [
+    "Model",
+    "OD",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Start-stop peak (N·m)",
+    "Weight",
+    "Length (mm)"
+   ],
+   "rows": [
+    [
+     "CRA-RI30-40-PRO",
+     "Φ30",
+     "51 / 101",
+     "1.8 / 2.4",
+     "3.3 / 4.8",
+     "0.19 kg",
+     "60.0"
+    ],
+    [
+     "CRA-RI40-52-PRO",
+     "Φ40",
+     "51 / 101",
+     "3.5 / 5",
+     "8.3 / 11",
+     "0.32 kg",
+     "62.0"
+    ],
+    [
+     "CRA-RI50-70-PRO",
+     "Φ50",
+     "51 / 81 / 101",
+     "6.6 / 9.6 / 9.6",
+     "23 / 29 / 34",
+     "0.66 kg",
+     "63.0"
+    ],
+    [
+     "CRA-RI60-80-PRO",
+     "Φ60",
+     "51 / 81 / 101 / 121",
+     "19.8 / 27.5 / 30 / 30",
+     "42 / 53 / 66 / 66",
+     "1.03 kg",
+     "72.5"
+    ],
+    [
+     "RI50-60-PRO-S",
+     "Φ50",
+     "51:1",
+     "6.6",
+     "23",
+     "0.45 kg",
+     "—"
+    ],
+    [
+     "RI60-70-PRO-S",
+     "Φ60",
+     "51:1",
+     "19.8",
+     "42",
+     "0.73 kg",
+     "—"
+    ],
+    [
+     "RI80-97-PRO-S",
+     "Φ80",
+     "101:1",
+     "84",
+     "194",
+     "1.50 kg",
+     "—"
+    ],
+    [
+     "RI100-120-PRO-S",
+     "Φ100",
+     "101:1",
+     "169",
+     "411",
+     "2.52 kg",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/brands/tongchuan/",
+   "section": "Selection tables",
+   "table": "Tongchuan (TC Drive / HarmoCore) — TCHL lightweight harmonic actuators",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratios",
+    "Rated @2000 rpm (N·m)",
+    "Peak start/stop (N·m)",
+    "Peak output (N·m)",
+    "Weight",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "TCHL-11",
+     "Φ52 × 57",
+     "50 / 80 / 100",
+     "5.3",
+     "19",
+     "25",
+     "0.37 kg",
+     "Φ8"
+    ],
+    [
+     "TCHL-14",
+     "Φ65 × 55",
+     "51 / 81 / 101",
+     "6.5",
+     "24",
+     "36",
+     "0.45 kg",
+     "Φ10"
+    ],
+    [
+     "TCHL-17",
+     "Φ77 × 76",
+     "51 / 81 / 101",
+     "29",
+     "67",
+     "136",
+     "0.93 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-20",
+     "Φ87 × 77.5",
+     "51 / 81 / 101",
+     "49",
+     "102",
+     "181",
+     "1.28 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-25",
+     "Φ99 × 87",
+     "81 / 101 / 121",
+     "83",
+     "194",
+     "351",
+     "1.85 kg",
+     "Φ15"
+    ],
+    [
+     "TCHL-32",
+     "Φ131 × 103.5",
+     "81 / 101 / 121",
+     "169",
+     "411",
+     "799",
+     "3.30 kg",
+     "Φ22"
+    ]
+   ]
+  },
+  {
+   "page": "/data-collection/",
+   "section": "What a capture station is made of",
+   "table": "",
+   "columns": [
+    "Part",
+    "Role in the station",
+    "Key specs",
+    "Interface / power"
+   ],
+   "rows": [
+    [
+     "Linker MCG glove",
+     "Leader — hand motion capture",
+     "7 sensors per glove, ≤0.001° resolution, 0.1°/0.2° static accuracy",
+     "700 mAh, 6 h, 600 Hz processing / 100 Hz output, 2.4 GHz"
+    ],
+    [
+     "Linker FFG glove",
+     "Leader — hand capture with force feedback",
+     "21 DOF, 16 potentiometers + 5 servos, 390 g, 0.08° accuracy",
+     "3.5 kg·cm torque output, wired 100 Hz / wireless 30 Hz"
+    ],
+    [
+     "Linker TA teleoperation arm",
+     "Leader — whole-arm pose",
+     "14 DOF, 658 mm span, 1.4 kg, 12-bit absolute encoders",
+     "CAN 1 Mbps, 200 Hz sampling, chest-mounted"
+    ],
+    [
+     "HRV1 3 kg data-collection arm",
+     "Follower — executes the demonstration",
+     "892 mm reach, 4.65 kg per arm, 3 kg payload, RBV1 R48/R58/R68 modules",
+     "CANopen / CAN-FD, no brake, no torque sensor"
+    ]
+   ]
+  },
+  {
+   "page": "/dexterous-hands/",
+   "section": "Linkerbot (Linker Hand)",
+   "table": "",
+   "columns": [
+    "Model",
+    "Positioning",
+    "Key specs",
+    "Note"
+   ],
+   "rows": [
+    [
+     "Linker Hand O30",
+     "Humanoid platform hand",
+     "Tactile options, full sensing",
+     "Flagship platform hand, award-winning"
+    ],
+    [
+     "Linker Hand O20",
+     "16 DOF direct drive",
+     "~888 g, 20 kg rated / 36 kg peak, CAN-FD up to 1000 Hz",
+     "Self-locking hold for industrial precision assembly and heavy loads"
+    ],
+    [
+     "Linker Hand L30 Pro",
+     "22 DOF",
+     "15 kg payload, ~1.2 kg, CAN-FD 900 Hz",
+     "Tendon-driven with fingertip tactile array"
+    ],
+    [
+     "Linker Hand L20",
+     "High-DOF general purpose",
+     "—",
+     "Balanced payload and dexterity"
+    ],
+    [
+     "Linker Hand L20 Lite",
+     "10 active + 10 passive DOF",
+     "Worm-gear + linkage hybrid",
+     "Value-oriented high-DOF hand"
+    ],
+    [
+     "Linker Hand L6",
+     "6 active + 5 passive DOF",
+     "607 g, 28 kg payload, CAN / RS-485",
+     "Industrial-grade, tested over 1M cycles"
+    ],
+    [
+     "Linker Hand O6",
+     "6 active + 5 passive DOF",
+     "360 g, up to 50 kg payload",
+     "Aerospace-grade aluminium, entry price point"
+    ]
+   ]
+  },
+  {
+   "page": "/dexterous-hands/",
+   "section": "How to choose a Linker Hand",
+   "table": "",
+   "columns": [
+    "If your priority is",
+    "Choose",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Highest payload per gram, tightest budget",
+     "Linker Hand O6",
+     "Lightest hand in the range; built as an economical gripper for industrial load cases"
+    ],
+    [
+     "Precision, speed and duty cycle in balance",
+     "Linker Hand L6",
+     "Metal internal structure, 0.3 s open/close, 6–10 hours continuous operation"
+    ],
+    [
+     "Direct-drive holding power with self-locking",
+     "Linker Hand O20",
+     "20 kg rated / 36 kg peak, worm-gear drive, CAN FD up to 1000 Hz"
+    ],
+    [
+     "Fingers that wrap an object, not pinch it",
+     "Linker Hand L20 Lite",
+     "10 active + 10 passive joints with finger abduction for enveloping grasps"
+    ],
+    [
+     "Complex in-hand manipulation and training data",
+     "Linker Hand L20",
+     "Most active joints in the range, impact-resistant, built for data farming"
+    ],
+    [
+     "Biomimetic compliance and fastest response",
+     "Linker Hand L30 Pro",
+     "Tendon drive with a fingertip tactile array"
+    ],
+    [
+     "Sensing as the default, not an option",
+     "Linker Hand O30",
+     "Flagship platform hand with tactile options across the hand"
+    ]
+   ]
+  },
+  {
+   "page": "/dexterous-hands/",
+   "section": "The rest of the Linkerbot ecosystem",
+   "table": "Education, research labs and human-like grasping",
+   "columns": [
+    "Device",
+    "Role",
+    "Key specs"
+   ],
+   "rows": [
+    [
+     "Linker Arm A7",
+     "7-DOF arm to carry the hand",
+     "7 DOF, 5.9 kg, 600 mm working radius, 3 kg rated load, 48 V, CAN / RS485, 500 W max"
+    ],
+    [
+     "Linker EG (LEG1-02)",
+     "Exoskeleton teleoperation glove",
+     "15 sensors, 0.1° capture accuracy, 190 g per glove, ESP-NOW 20–30 Hz, <10 ms latency, 3.2 h battery"
+    ],
+    [
+     "Linker FFG (LFFG1-02/03)",
+     "Force-feedback glove",
+     "21 DOF, force simulation on the operator side, wired 100 Hz / wireless 30 Hz, can take power from the teleop arm"
+    ],
+    [
+     "Linker MCG (LMCG1-01)",
+     "Lightweight motion capture glove",
+     "7 sensors per glove, ≤0.001° resolution, 2.4 GHz wireless, on-board gesture recognition"
+    ],
+    [
+     "Linker TA (LTA1)",
+     "Chest-mounted teleoperation arm",
+     "14 DOF, 658 mm span, 1.4 kg, CAN 1 Mbps, 200 Hz sampling"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/can-vs-ethercat-joint-communication/",
+   "section": "Head to head",
+   "table": "",
+   "columns": [
+    "",
+    "CAN 2.0",
+    "CAN FD",
+    "EtherCAT"
+   ],
+   "rows": [
+    [
+     "Line rate",
+     "≤1 Mbit/s",
+     "1 Mbit/s arbitration, 2–5 Mbit/s data phase (typical)",
+     "100 Mbit/s"
+    ],
+    [
+     "Payload per frame",
+     "8 bytes",
+     "Up to 64 bytes",
+     "One frame carries every axis"
+    ],
+    [
+     "Arbitration",
+     "Priority-based, non-deterministic under load",
+     "Same",
+     "Master-scheduled, deterministic"
+    ],
+    [
+     "Synchronisation",
+     "None built in",
+     "None built in",
+     "Distributed clocks, sub-µs jitter"
+    ],
+    [
+     "Typical control loop",
+     "200–500 Hz (approx.)",
+     "500 Hz–1 kHz (approx.)",
+     "1 kHz; 250–500 µs cycles in high-axis builds"
+    ],
+    [
+     "Cabling",
+     "One twisted pair, 120 Ω terminators at both ends",
+     "Same",
+     "Industrial Ethernet (RJ45 / M8), tree topology, no switch required"
+    ],
+    [
+     "Master side",
+     "USB-to-CAN adapter, trivial",
+     "CAN FD adapter",
+     "NIC plus a real-time stack (SOEM, IgH master, TwinCAT) or a dedicated master"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/can-vs-ethercat-joint-communication/",
+   "section": "The bandwidth arithmetic that actually decides it",
+   "table": "",
+   "columns": [
+    "Axes on one bus",
+    "200 Hz",
+    "500 Hz",
+    "1 kHz"
+   ],
+   "rows": [
+    [
+     "6 (single arm)",
+     "2,400 frames/s — CAN 2.0",
+     "6,000 — CAN 2.0, tight",
+     "12,000 — CAN FD"
+    ],
+    [
+     "12 (two arms)",
+     "4,800 — CAN 2.0",
+     "12,000 — CAN FD",
+     "24,000 — EtherCAT"
+    ],
+    [
+     "20+ (upper body)",
+     "8,000 — CAN FD or split bus",
+     "20,000 — EtherCAT",
+     "40,000 — EtherCAT"
+    ],
+    [
+     "30+ (whole humanoid)",
+     "12,000 — split bus",
+     "30,000 — EtherCAT",
+     "60,000 — EtherCAT"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/can-vs-ethercat-joint-communication/",
+   "section": "Wiring and failure modes",
+   "table": "",
+   "columns": [
+    "",
+    "CAN / CAN FD",
+    "EtherCAT"
+   ],
+   "rows": [
+    [
+     "Topology",
+     "Linear bus with short stubs, terminations at both ends",
+     "Any tree; an ordinary switch adds jitter, so avoid one if you can"
+    ],
+    [
+     "Cable",
+     "One differential pair — easy to route through a joint",
+     "Four-pair industrial Ethernet; connector quality matters"
+    ],
+    [
+     "Noise tolerance",
+     "Very tolerant, long automotive heritage",
+     "Differential too, but less forgiving of poor cabling next to motor phases"
+    ],
+    [
+     "Single fault",
+     "A node that babbles can block the whole bus; bus-off recovery is on you",
+     "A break drops every slave behind it; cable redundancy exists on some devices"
+    ],
+    [
+     "Diagnostics",
+     "Error counters and error frames; limited introspection",
+     "Working counters, per-slave status, link-loss detection"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/dexterous-hand-drive-types/",
+   "section": "Head to head",
+   "table": "Direct drive, or motor per joint",
+   "columns": [
+    "",
+    "Linkage / worm-gear hybrid",
+    "Tendon-driven",
+    "Direct drive per joint"
+   ],
+   "rows": [
+    [
+     "DOF per actuator",
+     "Several — the coupling is the feature",
+     "One cable per axis; joints share the volume well",
+     "One"
+    ],
+    [
+     "Independent control",
+     "Limited by the linkage design",
+     "High",
+     "Full"
+    ],
+    [
+     "Adaptive grip without sensing",
+     "Excellent",
+     "Partial",
+     "None — you close the loop yourself"
+    ],
+    [
+     "Backdrivability",
+     "Low; a worm gear self-locks",
+     "Moderate, depends on routing and friction",
+     "Highest"
+    ],
+    [
+     "Mass location",
+     "Palm, proximal",
+     "Forearm or palm",
+     "In the finger"
+    ],
+    [
+     "First thing to wear",
+     "Gear and pivot backlash",
+     "Cable tension, cable stretch",
+     "Gearbox and motor heat"
+    ],
+    [
+     "Field repair",
+     "Swap a finger module",
+     "Re-string the cable",
+     "Replace a joint unit"
+    ],
+    [
+     "Right answer when",
+     "Utility grasping, high payload per gram",
+     "High DOF in a human-sized envelope",
+     "Precision pinch and force control"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/dexterous-hand-drive-types/",
+   "section": "Choosing by task",
+   "table": "Direct drive, or motor per joint",
+   "columns": [
+    "Task",
+    "What actually matters",
+    "Architecture that fits"
+   ],
+   "rows": [
+    [
+     "Pick and place across mixed objects",
+     "Consistent wrap, low cost per grasp, repeatability over cycles",
+     "Linkage, usually with passive DOF doing the adaptation"
+    ],
+    [
+     "Handheld tool use",
+     "Holding force while the motor is warm",
+     "Worm-gear hybrid — self-locking does part of the work"
+    ],
+    [
+     "In-hand manipulation",
+     "Independent axes plus compliance",
+     "Tendon-driven, or direct drive on the critical axes"
+    ],
+    [
+     "Teleoperation and imitation data",
+     "Human-hand fidelity plus fingertip sensing",
+     "Tendon-driven with tactile, evaluated alongside a motion capture glove"
+    ],
+    [
+     "Unknown or fragile objects",
+     "Detecting contact before damage",
+     "Any hand with fingertip tactile; direct drive where you estimate torque from current"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/dexterous-hand-drive-types/",
+   "section": "Integration checks before you commit",
+   "table": "Direct drive, or motor per joint",
+   "columns": [
+    "Check",
+    "Why it bites late"
+   ],
+   "rows": [
+    [
+     "Bus and frame rate",
+     "A high-DOF hand reporting dozens of channels at several hundred hertz can crowd out the rest of the robot on a classic CAN bus. Ask for payload size and update rate before you put the hand and the arm on one segment."
+    ],
+    [
+     "Wrist payload budget",
+     "The hand typically consumes roughly 10–20% of available wrist payload as a rule of thumb — treat that as approximate and work backwards from the arm rather than forwards from the grip."
+    ],
+    [
+     "Calibration drift",
+     "Any compliant transmission moves over time. Ask whether joint offsets get re-zeroed in software or mechanically, and how often."
+    ],
+    [
+     "Wear parts and lead time",
+     "Ask what wears, what the spare costs and how long it takes. Swapping a finger module and re-stringing a cable are very different maintenance commitments."
+    ],
+    [
+     "Software before hardware",
+     "Confirm the SDK, ROS packages and protocol support before comparing anything else. Our seven-day sample evaluation protocol covers what to test in week one."
+    ]
+   ]
+  },
+  {
+   "page": "/insights/harmonic-vs-planetary-joint-modules/",
+   "section": "Side by side",
+   "table": "",
+   "columns": [
+    "Factor",
+    "Harmonic",
+    "Planetary"
+   ],
+   "rows": [
+    [
+     "Torque density",
+     "Higher",
+     "Moderate"
+    ],
+    [
+     "Backlash",
+     "≤1 arcmin typical",
+     "5–15 arcmin typical"
+    ],
+    [
+     "Shock / impact load",
+     "Poor",
+     "Good"
+    ],
+    [
+     "Efficiency",
+     "Moderate",
+     "Higher"
+    ],
+    [
+     "Cost at same size",
+     "Higher",
+     "Lower"
+    ],
+    [
+     "Typical use",
+     "Arm / leg / waist axes",
+     "Lifting, wheels, grippers"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 1 — Unboxing and physical inspection",
+   "table": "",
+   "columns": [
+    "Check",
+    "Pass",
+    "Fail = stop"
+   ],
+   "rows": [
+    [
+     "Weight vs datasheet",
+     "Within ±5%",
+     ">10% deviation suggests the wrong configuration was shipped"
+    ],
+    [
+     "Joint free movement (power off)",
+     "Every joint moves smoothly by hand",
+     "Any joint that binds or grinds is a mechanical defect"
+    ],
+    [
+     "Connectors",
+     "Clean, no bent pins, locks positively",
+     "Bent pins or a loose fit means an unreliable link"
+    ],
+    [
+     "Documentation",
+     "Quick-start guide with a clear wiring diagram",
+     "No documentation means painful integration"
+    ],
+    [
+     "Accessories",
+     "Power supply, cables, adapter, mounting bracket present",
+     "Missing parts — contact the supplier before powering on"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 2 — Communication and basic control",
+   "table": "",
+   "columns": [
+    "Symptom",
+    "Likely cause",
+    "First thing to try"
+   ],
+   "rows": [
+    [
+     "No response at all",
+     "Wrong baud rate or node ID",
+     "Check datasheet defaults; try 1000 kbps then 500 kbps"
+    ],
+    [
+     "Some joints respond, some don't",
+     "Address conflict or broken daisy chain",
+     "Check wiring continuity, verify node IDs"
+    ],
+    [
+     "Jittery motion",
+     "Gains untuned or bus noise",
+     "Check grounding, lower PD gains"
+    ],
+    [
+     "SDK examples crash",
+     "Library or OS mismatch",
+     "Ask the supplier for a known-good version"
+    ],
+    [
+     "Warm at idle",
+     "Firmware bug or wiring fault",
+     "Stop immediately — hardware risk"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 3 — Motion characterisation and calibration",
+   "table": "",
+   "columns": [
+    "Parameter",
+    "How to measure",
+    "Good result"
+   ],
+   "rows": [
+    [
+     "Range of motion",
+     "Command min to max, measure the real angle",
+     "Matches datasheet ROM"
+    ],
+    [
+     "Position accuracy",
+     "Five target angles per joint, commanded vs actual",
+     "±0.5°"
+    ],
+    [
+     "Repeatability",
+     "Same angle ten times, measure spread",
+     "±0.1° on precision hands"
+    ],
+    [
+     "Maximum speed",
+     "Time a full flex–extend cycle",
+     "Meets datasheet speed"
+    ],
+    [
+     "Step response",
+     "Step input, time to 90% of target",
+     "Under 100 ms"
+    ],
+    [
+     "Backlash",
+     "Approach one position from both directions",
+     "<0.5° direct drive, <2° tendon"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 4 — Grasp testing and force measurement",
+   "table": "",
+   "columns": [
+    "Grasp type",
+    "Test objects",
+    "What it tells you"
+   ],
+   "rows": [
+    [
+     "Power (cylindrical)",
+     "Bottle, can, 50–80 mm cylinder",
+     "Maximum grip force and wrap-around"
+    ],
+    [
+     "Precision (pinch)",
+     "Pen, 5–15 mm cylinder",
+     "Fingertip dexterity and fine force control"
+    ],
+    [
+     "Lateral pinch",
+     "Card, thin book, phone",
+     "Thumb-to-finger lateral force"
+    ],
+    [
+     "Tripod",
+     "Pen in writing position, small ball",
+     "Three-finger coordination"
+    ],
+    [
+     "Hook",
+     "Bag handle, rope",
+     "Load-bearing capacity, finger strength"
+    ],
+    [
+     "Delicate",
+     "Egg, ripe fruit, paper cup",
+     "Force regulation and tactile feedback"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 5 — Durability and thermal",
+   "table": "",
+   "columns": [
+    "Metric",
+    "Good",
+    "Acceptable",
+    "Failing"
+   ],
+   "rows": [
+    [
+     "Motor temperature after 1 h",
+     "<45 °C",
+     "45–60 °C",
+     ">60 °C — thermal shutdown risk"
+    ],
+    [
+     "Grasp success rate, start vs 1 h",
+     "No change",
+     "<10% drop",
+     ">10% drop"
+    ],
+    [
+     "Position drift",
+     "<0.5°",
+     "0.5–1°",
+     ">1° — thermal growth or encoder drift"
+    ],
+    [
+     "Audible noise",
+     "No change",
+     "Slight change",
+     "New grinding or clicking = wear"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-evaluate-a-dexterous-hand-sample/",
+   "section": "Day 7 — Score it and decide",
+   "table": "",
+   "columns": [
+    "Category",
+    "Weight",
+    "Score 1–5"
+   ],
+   "rows": [
+    [
+     "Mechanical quality",
+     "20%",
+     ""
+    ],
+    [
+     "Motion performance",
+     "20%",
+     ""
+    ],
+    [
+     "Communication reliability",
+     "15%",
+     ""
+    ],
+    [
+     "Grasp capability",
+     "15%",
+     ""
+    ],
+    [
+     "Durability",
+     "10%",
+     ""
+    ],
+    [
+     "Documentation quality",
+     "10%",
+     ""
+    ],
+    [
+     "Integration effort",
+     "10%",
+     ""
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-size-joint-modules/",
+   "section": "Torque by joint position",
+   "table": "",
+   "columns": [
+    "Joint",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Reducer",
+    "Ratio"
+   ],
+   "rows": [
+    [
+     "Hip (pitch / roll / yaw)",
+     "80–200",
+     "240–600",
+     "Planetary / RV",
+     "50:1 – 80:1"
+    ],
+    [
+     "Knee (pitch)",
+     "60–150",
+     "180–450",
+     "Planetary",
+     "50:1 – 80:1"
+    ],
+    [
+     "Ankle (pitch / roll)",
+     "30–60",
+     "90–180",
+     "Planetary",
+     "50:1 – 80:1"
+    ],
+    [
+     "Waist (yaw)",
+     "40–120",
+     "120–360",
+     "Harmonic",
+     "80:1 – 120:1"
+    ],
+    [
+     "Shoulder (3 axes)",
+     "30–50",
+     "90–150",
+     "Harmonic",
+     "80:1 – 120:1"
+    ],
+    [
+     "Elbow (pitch)",
+     "20–40",
+     "60–120",
+     "Harmonic",
+     "80:1 – 120:1"
+    ],
+    [
+     "Wrist (pitch / yaw)",
+     "5–15",
+     "15–45",
+     "Micro harmonic",
+     "100:1 – 160:1"
+    ],
+    [
+     "Finger joints",
+     "0.5–2",
+     "1.5–6",
+     "Micro harmonic / planetary",
+     "50:1 – 100:1"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/how-to-size-joint-modules/",
+   "section": "The number on the datasheet is a best case",
+   "table": "",
+   "columns": [
+    "Condition",
+    "Derating"
+   ],
+   "rows": [
+    [
+     "Housing at 60 °C",
+     "×0.75"
+    ],
+    [
+     "Sealed housing, no convection",
+     "×0.85"
+    ],
+    [
+     "Grease degraded after ~5,000 h",
+     "×0.90"
+    ],
+    [
+     "Combined real-world",
+     "≈ ×0.57"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/joint-module-accuracy-specs/",
+   "section": "The three numbers behind one figure",
+   "table": "",
+   "columns": [
+    "Number",
+    "What it measures",
+    "Typical published form",
+    "What the sheet leaves out"
+   ],
+   "rows": [
+    [
+     "Backlash",
+     "Lost motion at the output with the input locked",
+     "arcmin or arcsec, often a single maximum",
+     "Load, temperature, and whether it is measured new or after run-in"
+    ],
+    [
+     "Repeatability",
+     "Spread of return positions over many cycles",
+     "± value at the output, sometimes at the motor",
+     "Unidirectional or bidirectional — the second includes the backlash"
+    ],
+    [
+     "Stiffness",
+     "Deflection per unit torque at the output",
+     "Nm/rad or Nm/arcmin, if it is quoted at all",
+     "The torque it was measured at; harmonic stiffness is not constant"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/joint-module-accuracy-specs/",
+   "section": "What backlash looks like by transmission",
+   "table": "",
+   "columns": [
+    "Transmission",
+    "Backlash, typical published range",
+    "Why it lands there",
+    "Axis where it fits"
+   ],
+   "rows": [
+    [
+     "Harmonic (strain wave), precision grade",
+     "≤1 arcmin (≈60 arcsec)",
+     "Near-zero by elastic preload of the flex spline, not by tight machining fits",
+     "Wrist, elbow, shoulder pitch on arms"
+    ],
+    [
+     "Harmonic, standard grade",
+     "≤3 arcmin",
+     "Same mechanism, looser preload, better efficiency and life",
+     "General arm axes, torso"
+    ],
+    [
+     "Planetary",
+     "3–15 arcmin",
+     "Gear mesh clearance; cost and shock tolerance come from the same clearance",
+     "Hip and knee push, cost-sensitive axes"
+    ],
+    [
+     "RV (cycloidal)",
+     "≤1 arcmin",
+     "Many contact points sharing load, so clearance can be held tight without preload",
+     "Heavy-load hip in large humanoids"
+    ]
+   ]
+  },
+  {
+   "page": "/insights/joint-module-accuracy-specs/",
+   "section": "Which number matters on which axis",
+   "table": "",
+   "columns": [
+    "Axis group",
+    "Spec that decides success",
+    "Spec that is usually oversold"
+   ],
+   "rows": [
+    [
+     "Hip pitch / knee",
+     "Stiffness and shock tolerance; backlash secondary",
+     "1 arcmin backlash quoted as a headline"
+    ],
+    [
+     "Hip yaw / waist",
+     "Stiffness under asymmetric load, plus brake holding",
+     "Peak torque"
+    ],
+    [
+     "Shoulder / elbow",
+     "Backlash and repeatability, both measurable at the output",
+     "Maximum speed"
+    ],
+    [
+     "Wrist",
+     "Backlash, weight, and encoder placement",
+     "Payload rating without a lever arm"
+    ],
+    [
+     "Hand and finger joints",
+     "Backdrivability and size; arcmin figures are noise at this scale",
+     "Any backlash number at all"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/compare/",
+   "section": "Cross-brand reference by torque band",
+   "table": "",
+   "columns": [
+    "Band (rated / peak N·m)",
+    "Ti5 PRO",
+    "Ti5 PRO-S",
+    "Crabnova",
+    "EYOU",
+    "Tongchuan"
+   ],
+   "rows": [
+    [
+     "~2 / 6",
+     "—",
+     "—",
+     "R48-Lite (5/11, 0.26 kg)",
+     "PHA08L-101 (1.65/3.3, 207 g)",
+     "—"
+    ],
+    [
+     "~5 / 11",
+     "RI40-52 51:1 (3.5/8.3, 0.32 kg)",
+     "—",
+     "R48-DNN (6.5/16, 0.27 kg)",
+     "PHA11H-101 (5/11, 375 g)",
+     "TCHL-11 100:1 (5.3/19, 0.37 kg)"
+    ],
+    [
+     "~7 / 23",
+     "RI50-70 51:1 (6.6/23, 0.66 kg)",
+     "RI50-60 51:1 (6.6/23, 0.45 kg)",
+     "R58-DNN (20/45, 0.55 kg)",
+     "PHU14H-70 101:1 (9.6/34, 812 g)",
+     "TCHL-14 101:1 (6.5/24, 0.45 kg)"
+    ],
+    [
+     "~20 / 42",
+     "RI60-80 51:1 (19.8/42, 1.03 kg)",
+     "RI60-70 51:1 (19.8/42, 0.73 kg)",
+     "R58-DNN (20/45, 0.55 kg) · R68-Lite (33/82, 0.74 kg)",
+     "PHU17H-80 51:1 (19.8/42, 1143 g)",
+     "—"
+    ],
+    [
+     "~30 / 67",
+     "RI60-80 101:1 (30/66, 1.03 kg)",
+     "RI60-70 101:1 (30/66, 0.73 kg)",
+     "R68-DNN (33/82, 0.83 kg)",
+     "PHU17H-80 101:1 (30/66, 1143 g)",
+     "TCHL-17 101:1 (29/67, 0.93 kg)"
+    ],
+    [
+     "~50 / 102",
+     "RI70-90 81:1 (42/91, 1.27 kg)",
+     "RI70-80 81:1 (42/91, 0.90 kg)",
+     "R83-DNN (53/120, 1.26 kg) · R83-FBN (53/120, 1.40 kg)",
+     "PHU20H-90 81:1 (42/91, 1582 g)",
+     "TCHL-20 101:1 (49/102, 1.28 kg)"
+    ],
+    [
+     "~84 / 194",
+     "RI80-110 101:1 (84/194, 2.06 kg)",
+     "RI80-97 101:1 (84/194, 1.50 kg)",
+     "R102-FBN (147/350, 2.20 kg)",
+     "PHU25H-110 101:1 (84/194, 2354 g)",
+     "TCHL-25 101:1 (83/194, 1.85 kg)"
+    ],
+    [
+     "~169 / 411",
+     "RI100-142 101:1 (169/411, 3.96 kg)",
+     "RI100-120 101:1 (169/411, 2.52 kg)",
+     "R120-FBN (180/450, 4.10 kg)",
+     "PHU32H-142 101:1 (169/411, 5650 g)",
+     "TCHL-32 101:1 (169/411, 3.30 kg)"
+    ],
+    [
+     "~300 / 650+",
+     "RI110-170 121:1 (363/762, 6.84 kg)",
+     "—",
+     "R120-MAX-FBN (300/600, 4.60 kg)",
+     "RHU40H-130 120:1 (248/648, 5820 g) · PHU40H-170 121:1 (320/762, 8520 g)",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/compare/",
+   "section": "Planetary alternatives by torque band",
+   "table": "",
+   "columns": [
+    "Rated torque (N·m)",
+    "EYOU planetary",
+    "Size (OD × L)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "0.2",
+     "PP05",
+     "Φ32 × 34.2",
+     "86 g"
+    ],
+    [
+     "1.0",
+     "PP08 / PP08D",
+     "Φ40 × 56.4 / 47.7",
+     "189 / 199 g"
+    ],
+    [
+     "6.6",
+     "PP11 / PP11D",
+     "Φ52 × 67.6 / 61.2",
+     "390 / 437 g"
+    ],
+    [
+     "10",
+     "PP11L",
+     "Φ52 × 84.3",
+     "521 g"
+    ],
+    [
+     "12",
+     "RP70L",
+     "Φ77 × 52.5",
+     "670 g"
+    ],
+    [
+     "17",
+     "RP70H",
+     "Φ77 × 58.3",
+     "760 g"
+    ],
+    [
+     "35",
+     "RP90L",
+     "Φ96.5 × 56",
+     "1075 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/compare/",
+   "section": "Brand positioning at a glance",
+   "table": "",
+   "columns": [
+    "",
+    "Ti5",
+    "Crabnova",
+    "EYOU",
+    "Tongchuan"
+   ],
+   "rows": [
+    [
+     "Voltage",
+     "24–80 V DC wide input",
+     "48 V DC",
+     "24–48 V (PHA 24–36 V)",
+     "48 V DC"
+    ],
+    [
+     "Protocols",
+     "CAN / CAN + EtherCAT",
+     "CANopen / CAN-FD / EtherCAT",
+     "CANopen / CAN-FD / EtherCAT (PHA: CANopen only)",
+     "CAN / EtherCAT"
+    ],
+    [
+     "Encoders",
+     "Dual absolute, single or dual optional",
+     "Dual 19-bit single-turn (Lite: dual 23-bit magnetic)",
+     "Dual absolute 19-bit (PHU/RHU), 16-bit (PHA)",
+     "Motor 17-bit + output 19-bit (TCHR-I); 23-bit (HarmoCore)"
+    ],
+    [
+     "Backlash",
+     "—",
+     "≤ 30 arcsec",
+     "≤ 30 arcsec (per datasheet)",
+     "≤ 60 arcsec transmission, ≤ 10 arcsec repeatability (TCHL)"
+    ],
+    [
+     "Force control",
+     "Optional",
+     "Standard on performance / waist series",
+     "PHU-F / RHU-F ±0.5% FS, 8 kHz",
+     "On selected series"
+    ],
+    [
+     "Stand-out",
+     "Lightest at a given envelope, OD from Φ30",
+     "Five sub-series, high torque per gram",
+     "Highest harmonic joint shipment volume in China",
+     "In-house reducer, 300k units/year capacity"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Tongchuan (TC Drive / HarmoCore) — TCHL lightweight harmonic actuators",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratios",
+    "Rated @2000 rpm (N·m)",
+    "Peak start/stop (N·m)",
+    "Peak output (N·m)",
+    "Weight",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "TCHL-11",
+     "Φ52 × 57",
+     "50 / 80 / 100",
+     "5.3",
+     "19",
+     "25",
+     "0.37 kg",
+     "Φ8"
+    ],
+    [
+     "TCHL-14",
+     "Φ65 × 55",
+     "51 / 81 / 101",
+     "6.5",
+     "24",
+     "36",
+     "0.45 kg",
+     "Φ10"
+    ],
+    [
+     "TCHL-17",
+     "Φ77 × 76",
+     "51 / 81 / 101",
+     "29",
+     "67",
+     "136",
+     "0.93 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-20",
+     "Φ87 × 77.5",
+     "51 / 81 / 101",
+     "49",
+     "102",
+     "181",
+     "1.28 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-25",
+     "Φ99 × 87",
+     "81 / 101 / 121",
+     "83",
+     "194",
+     "351",
+     "1.85 kg",
+     "Φ15"
+    ],
+    [
+     "TCHL-32",
+     "Φ131 × 103.5",
+     "81 / 101 / 121",
+     "169",
+     "411",
+     "799",
+     "3.30 kg",
+     "Φ22"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB Lite series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-Lite",
+     "101:1",
+     "5",
+     "11",
+     "0.26 kg",
+     "Φ48 × 45.5",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-Lite",
+     "101:1",
+     "20",
+     "45",
+     "0.46 kg",
+     "Φ58 × 58.0",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-Lite",
+     "101:1",
+     "33",
+     "82",
+     "0.74 kg",
+     "Φ68 × 73.3",
+     "Φ18",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB DNN base series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-DNN",
+     "101:1",
+     "6.5",
+     "16",
+     "0.27 kg",
+     "Φ48 × 53.6",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-DNN",
+     "101:1",
+     "20",
+     "45",
+     "0.55 kg",
+     "Φ58 × 65.2",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-DNN",
+     "101:1",
+     "33",
+     "82",
+     "0.83 kg",
+     "Φ68 × 77.6",
+     "Φ12",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RB-R83-101-DNN",
+     "101:1",
+     "53",
+     "120",
+     "1.26 kg",
+     "Φ83 × 78.8",
+     "Φ12",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RB FBN waist series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R83-101-FBN",
+     "101:1",
+     "53",
+     "120",
+     "1.40 kg",
+     "Φ83 × 74.0",
+     "Φ12",
+     "Waist"
+    ],
+    [
+     "CE-RB-R102-161-FBN",
+     "161:1",
+     "147",
+     "350",
+     "2.20 kg",
+     "Φ102 × 90.3",
+     "Φ20",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-161-FBN",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 110.3",
+     "Φ23",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-MAX-161-FBN",
+     "161:1",
+     "300",
+     "600",
+     "4.60 kg",
+     "Φ120 × 125.0",
+     "Φ23",
+     "Waist"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RBV3 performance series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RBV3-R68-101",
+     "101:1",
+     "33",
+     "82",
+     "1.15 kg",
+     "Φ68 × 82.6",
+     "—",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RBV3-R83-101",
+     "101:1",
+     "53",
+     "120",
+     "1.60 kg",
+     "Φ83 × 79.3",
+     "—",
+     "Shoulder, waist"
+    ],
+    [
+     "CE-RBV3-R102-161",
+     "161:1",
+     "147",
+     "350",
+     "2.60 kg",
+     "Φ102 × 89.6",
+     "—",
+     "Waist, knee"
+    ],
+    [
+     "CE-RBV3-R120-161",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 116.3",
+     "—",
+     "Waist, knee"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "Crabnova (Juxiedrive) — RMV3 industrial series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "CE-RMV3-R52",
+     "51:1",
+     "3.5",
+     "8.3",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R52",
+     "101:1",
+     "5.0",
+     "11",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R70",
+     "51:1",
+     "7",
+     "23",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R70",
+     "101:1",
+     "10",
+     "36",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "51:1",
+     "21",
+     "44",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "101:1",
+     "31",
+     "70",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "51:1",
+     "33",
+     "73",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "101:1",
+     "52",
+     "107",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R110",
+     "51:1",
+     "51",
+     "127",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R110",
+     "101:1",
+     "87",
+     "204",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R142",
+     "101:1",
+     "178",
+     "433",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R142",
+     "161:1",
+     "178",
+     "484",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R170",
+     "101:1",
+     "345",
+     "738",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ],
+    [
+     "CE-RMV3-R170",
+     "161:1",
+     "382",
+     "841",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "EYOU — PHA lightweight series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight",
+    "Voltage"
+   ],
+   "rows": [
+    [
+     "PHA08L-101-C",
+     "Φ43 × 48.3",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "207 g",
+     "24–36 V"
+    ],
+    [
+     "PHA11H-101-C",
+     "Φ52 × 55.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "375 g",
+     "24–48 V"
+    ],
+    [
+     "PHA14H-101-C",
+     "Φ70 × 61.5",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "645 g",
+     "—"
+    ],
+    [
+     "PHA17H-101-C",
+     "Φ80 × 68",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "900 g",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "EYOU — PHU enhanced series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "51:1",
+     "1.25",
+     "1.6",
+     "2.3",
+     "4.6",
+     "196 g"
+    ],
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "196 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "403 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "403 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "543 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "543 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "51:1",
+     "6.6",
+     "8.6",
+     "23",
+     "43",
+     "812 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "812 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "51:1",
+     "19.8",
+     "32",
+     "42",
+     "86",
+     "1143 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "1143 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "81:1",
+     "42",
+     "58",
+     "91",
+     "158",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "101:1",
+     "50",
+     "61",
+     "102",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "121:1",
+     "50",
+     "61",
+     "108",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "81:1",
+     "78",
+     "107",
+     "169",
+     "315",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "101:1",
+     "84",
+     "133",
+     "194",
+     "351",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "121:1",
+     "84",
+     "133",
+     "207",
+     "376",
+     "2354 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "101:1",
+     "169",
+     "267",
+     "411",
+     "800",
+     "5650 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "121:1",
+     "169",
+     "267",
+     "436",
+     "848",
+     "5650 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "101:1",
+     "320",
+     "460",
+     "702",
+     "1334",
+     "8520 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "121:1",
+     "320",
+     "557",
+     "762",
+     "1458",
+     "8520 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "EYOU — RHU humanoid series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "50:1",
+     "3.7",
+     "4.8",
+     "12",
+     "24",
+     "382 g"
+    ],
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "100:1",
+     "5.4",
+     "7.7",
+     "19",
+     "35",
+     "382 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "50:1",
+     "11",
+     "18",
+     "23",
+     "48",
+     "521 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "100:1",
+     "16",
+     "27",
+     "37",
+     "71",
+     "521 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "50:1",
+     "17",
+     "24",
+     "39",
+     "69",
+     "811 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "100:1",
+     "28",
+     "34",
+     "57",
+     "95",
+     "811 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "50:1",
+     "27",
+     "38",
+     "69",
+     "127",
+     "1266 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "100:1",
+     "47",
+     "75",
+     "110",
+     "184",
+     "1266 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "120:1",
+     "124",
+     "197",
+     "270",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "160:1",
+     "169",
+     "267",
+     "459",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "120:1",
+     "248",
+     "448",
+     "648",
+     "1458",
+     "5820 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "160:1",
+     "363",
+     "557",
+     "800",
+     "1458",
+     "5820 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/harmonic/",
+   "section": "Selection tables",
+   "table": "DAMIAO — DM-JH harmonic joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight",
+    "Rated speed",
+    "Comms"
+   ],
+   "rows": [
+    [
+     "DM-JH11-51-2EC",
+     "3.2",
+     "7.8",
+     "51:1",
+     "Φ52 × 60",
+     "345 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH11-101-2EC",
+     "4.8",
+     "10.5",
+     "101:1",
+     "Φ52 × 60",
+     "345 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-51-2EC",
+     "5.4",
+     "18",
+     "51:1",
+     "Φ70 × 70",
+     "775 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-101-2EC",
+     "7.8",
+     "28",
+     "101:1",
+     "Φ70 × 70",
+     "775 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-51-2EC",
+     "16",
+     "24",
+     "51:1",
+     "Φ80 × 70",
+     "985 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-101-2EC",
+     "24",
+     "54",
+     "101:1",
+     "Φ80 × 70",
+     "985 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-51-2EC",
+     "32",
+     "69",
+     "51:1",
+     "Φ90 × 73",
+     "to confirm",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-101-2EC",
+     "50",
+     "102",
+     "101:1",
+     "Φ90 × 73",
+     "628 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Tongchuan (TC Drive / HarmoCore) — TCHL lightweight harmonic actuators",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratios",
+    "Rated @2000 rpm (N·m)",
+    "Peak start/stop (N·m)",
+    "Peak output (N·m)",
+    "Weight",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "TCHL-11",
+     "Φ52 × 57",
+     "50 / 80 / 100",
+     "5.3",
+     "19",
+     "25",
+     "0.37 kg",
+     "Φ8"
+    ],
+    [
+     "TCHL-14",
+     "Φ65 × 55",
+     "51 / 81 / 101",
+     "6.5",
+     "24",
+     "36",
+     "0.45 kg",
+     "Φ10"
+    ],
+    [
+     "TCHL-17",
+     "Φ77 × 76",
+     "51 / 81 / 101",
+     "29",
+     "67",
+     "136",
+     "0.93 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-20",
+     "Φ87 × 77.5",
+     "51 / 81 / 101",
+     "49",
+     "102",
+     "181",
+     "1.28 kg",
+     "Φ12"
+    ],
+    [
+     "TCHL-25",
+     "Φ99 × 87",
+     "81 / 101 / 121",
+     "83",
+     "194",
+     "351",
+     "1.85 kg",
+     "Φ15"
+    ],
+    [
+     "TCHL-32",
+     "Φ131 × 103.5",
+     "81 / 101 / 121",
+     "169",
+     "411",
+     "799",
+     "3.30 kg",
+     "Φ22"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Crabnova (Juxiedrive) — RB Lite series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-Lite",
+     "101:1",
+     "5",
+     "11",
+     "0.26 kg",
+     "Φ48 × 45.5",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-Lite",
+     "101:1",
+     "20",
+     "45",
+     "0.46 kg",
+     "Φ58 × 58.0",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-Lite",
+     "101:1",
+     "33",
+     "82",
+     "0.74 kg",
+     "Φ68 × 73.3",
+     "Φ18",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Crabnova (Juxiedrive) — RB DNN base series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R48-101-DNN",
+     "101:1",
+     "6.5",
+     "16",
+     "0.27 kg",
+     "Φ48 × 53.6",
+     "Φ8",
+     "Neck, wrist"
+    ],
+    [
+     "CE-RB-R58-101-DNN",
+     "101:1",
+     "20",
+     "45",
+     "0.55 kg",
+     "Φ58 × 65.2",
+     "Φ8",
+     "Wrist, elbow"
+    ],
+    [
+     "CE-RB-R68-101-DNN",
+     "101:1",
+     "33",
+     "82",
+     "0.83 kg",
+     "Φ68 × 77.6",
+     "Φ12",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RB-R83-101-DNN",
+     "101:1",
+     "53",
+     "120",
+     "1.26 kg",
+     "Φ83 × 78.8",
+     "Φ12",
+     "Shoulder, elbow"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Crabnova (Juxiedrive) — RB FBN waist series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RB-R83-101-FBN",
+     "101:1",
+     "53",
+     "120",
+     "1.40 kg",
+     "Φ83 × 74.0",
+     "Φ12",
+     "Waist"
+    ],
+    [
+     "CE-RB-R102-161-FBN",
+     "161:1",
+     "147",
+     "350",
+     "2.20 kg",
+     "Φ102 × 90.3",
+     "Φ20",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-161-FBN",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 110.3",
+     "Φ23",
+     "Waist"
+    ],
+    [
+     "CE-RB-R120-MAX-161-FBN",
+     "161:1",
+     "300",
+     "600",
+     "4.60 kg",
+     "Φ120 × 125.0",
+     "Φ23",
+     "Waist"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Crabnova (Juxiedrive) — RBV3 performance series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore",
+    "Typical axis"
+   ],
+   "rows": [
+    [
+     "CE-RBV3-R68-101",
+     "101:1",
+     "33",
+     "82",
+     "1.15 kg",
+     "Φ68 × 82.6",
+     "—",
+     "Shoulder, elbow"
+    ],
+    [
+     "CE-RBV3-R83-101",
+     "101:1",
+     "53",
+     "120",
+     "1.60 kg",
+     "Φ83 × 79.3",
+     "—",
+     "Shoulder, waist"
+    ],
+    [
+     "CE-RBV3-R102-161",
+     "161:1",
+     "147",
+     "350",
+     "2.60 kg",
+     "Φ102 × 89.6",
+     "—",
+     "Waist, knee"
+    ],
+    [
+     "CE-RBV3-R120-161",
+     "161:1",
+     "180",
+     "450",
+     "4.10 kg",
+     "Φ120 × 116.3",
+     "—",
+     "Waist, knee"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "Crabnova (Juxiedrive) — RMV3 industrial series",
+   "columns": [
+    "Model",
+    "Ratio",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Weight",
+    "Size (OD × L)",
+    "Through-bore"
+   ],
+   "rows": [
+    [
+     "CE-RMV3-R52",
+     "51:1",
+     "3.5",
+     "8.3",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R52",
+     "101:1",
+     "5.0",
+     "11",
+     "0.45 kg",
+     "Φ52 × 57",
+     "Φ11"
+    ],
+    [
+     "CE-RMV3-R70",
+     "51:1",
+     "7",
+     "23",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R70",
+     "101:1",
+     "10",
+     "36",
+     "0.80 kg",
+     "Φ70 × 58.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "51:1",
+     "21",
+     "44",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R80",
+     "101:1",
+     "31",
+     "70",
+     "1.18 kg",
+     "Φ80 × 63.9",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "51:1",
+     "33",
+     "73",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R90",
+     "101:1",
+     "52",
+     "107",
+     "1.62 kg",
+     "Φ90 × 69.5",
+     "Φ18"
+    ],
+    [
+     "CE-RMV3-R110",
+     "51:1",
+     "51",
+     "127",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R110",
+     "101:1",
+     "87",
+     "204",
+     "2.46 kg",
+     "Φ110 × 78",
+     "Φ28"
+    ],
+    [
+     "CE-RMV3-R142",
+     "101:1",
+     "178",
+     "433",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R142",
+     "161:1",
+     "178",
+     "484",
+     "4.80 kg",
+     "Φ142 × 96.5",
+     "Φ36"
+    ],
+    [
+     "CE-RMV3-R170",
+     "101:1",
+     "345",
+     "738",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ],
+    [
+     "CE-RMV3-R170",
+     "161:1",
+     "382",
+     "841",
+     "8.00 kg",
+     "Φ170 × 110",
+     "Φ40"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "EYOU — PHA lightweight series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight",
+    "Voltage"
+   ],
+   "rows": [
+    [
+     "PHA08L-101-C",
+     "Φ43 × 48.3",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "207 g",
+     "24–36 V"
+    ],
+    [
+     "PHA11H-101-C",
+     "Φ52 × 55.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "375 g",
+     "24–48 V"
+    ],
+    [
+     "PHA14H-101-C",
+     "Φ70 × 61.5",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "645 g",
+     "—"
+    ],
+    [
+     "PHA17H-101-C",
+     "Φ80 × 68",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "900 g",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "EYOU — PHU enhanced series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "51:1",
+     "1.25",
+     "1.6",
+     "2.3",
+     "4.6",
+     "196 g"
+    ],
+    [
+     "PHU08L-40",
+     "Φ40 × 56",
+     "101:1",
+     "1.65",
+     "2.3",
+     "3.3",
+     "6.3",
+     "196 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "403 g"
+    ],
+    [
+     "PHU11H-52",
+     "Φ52 × 70",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "403 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "51:1",
+     "3.5",
+     "5.5",
+     "8.3",
+     "17",
+     "543 g"
+    ],
+    [
+     "PHU11H-60",
+     "Φ60 × 68.5",
+     "101:1",
+     "5",
+     "8.9",
+     "11",
+     "25",
+     "543 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "51:1",
+     "6.6",
+     "8.6",
+     "23",
+     "43",
+     "812 g"
+    ],
+    [
+     "PHU14H-70",
+     "Φ70 × 75.4",
+     "101:1",
+     "9.6",
+     "13.5",
+     "34",
+     "66",
+     "812 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "51:1",
+     "19.8",
+     "32",
+     "42",
+     "86",
+     "1143 g"
+    ],
+    [
+     "PHU17H-80",
+     "Φ80 × 78",
+     "101:1",
+     "30",
+     "49",
+     "66",
+     "134",
+     "1143 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "81:1",
+     "42",
+     "58",
+     "91",
+     "158",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "101:1",
+     "50",
+     "61",
+     "102",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU20H-90",
+     "Φ90 × 85.8",
+     "121:1",
+     "50",
+     "61",
+     "108",
+     "182",
+     "1582 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "81:1",
+     "78",
+     "107",
+     "169",
+     "315",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "101:1",
+     "84",
+     "133",
+     "194",
+     "351",
+     "2354 g"
+    ],
+    [
+     "PHU25H-110",
+     "Φ110 × 94",
+     "121:1",
+     "84",
+     "133",
+     "207",
+     "376",
+     "2354 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "101:1",
+     "169",
+     "267",
+     "411",
+     "800",
+     "5650 g"
+    ],
+    [
+     "PHU32H-142",
+     "Φ142 × 144",
+     "121:1",
+     "169",
+     "267",
+     "436",
+     "848",
+     "5650 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "101:1",
+     "320",
+     "460",
+     "702",
+     "1334",
+     "8520 g"
+    ],
+    [
+     "PHU40H-170",
+     "Φ170 × 149",
+     "121:1",
+     "320",
+     "557",
+     "762",
+     "1458",
+     "8520 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "EYOU — RHU humanoid series",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Avg output (N·m)",
+    "Peak start/stop (N·m)",
+    "Instant. max (N·m)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "50:1",
+     "3.7",
+     "4.8",
+     "12",
+     "24",
+     "382 g"
+    ],
+    [
+     "RHU14L-52",
+     "Φ52 × 61.1",
+     "100:1",
+     "5.4",
+     "7.7",
+     "19",
+     "35",
+     "382 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "50:1",
+     "11",
+     "18",
+     "23",
+     "48",
+     "521 g"
+    ],
+    [
+     "RHU17L-60",
+     "Φ60 × 66",
+     "100:1",
+     "16",
+     "27",
+     "37",
+     "71",
+     "521 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "50:1",
+     "17",
+     "24",
+     "39",
+     "69",
+     "811 g"
+    ],
+    [
+     "RHU20L-70",
+     "Φ70 × 68",
+     "100:1",
+     "28",
+     "34",
+     "57",
+     "95",
+     "811 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "50:1",
+     "27",
+     "38",
+     "69",
+     "127",
+     "1266 g"
+    ],
+    [
+     "RHU25L-80",
+     "Φ80 × 80.5",
+     "100:1",
+     "47",
+     "75",
+     "110",
+     "184",
+     "1266 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "120:1",
+     "124",
+     "197",
+     "270",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU32H-120",
+     "Φ120 × 126",
+     "160:1",
+     "169",
+     "267",
+     "459",
+     "848",
+     "4080 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "120:1",
+     "248",
+     "448",
+     "648",
+     "1458",
+     "5820 g"
+    ],
+    [
+     "RHU40H-130",
+     "Φ130 × 136",
+     "160:1",
+     "363",
+     "557",
+     "800",
+     "1458",
+     "5820 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Harmonic joint modules",
+   "table": "DAMIAO — DM-JH harmonic joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight",
+    "Rated speed",
+    "Comms"
+   ],
+   "rows": [
+    [
+     "DM-JH11-51-2EC",
+     "3.2",
+     "7.8",
+     "51:1",
+     "Φ52 × 60",
+     "345 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH11-101-2EC",
+     "4.8",
+     "10.5",
+     "101:1",
+     "Φ52 × 60",
+     "345 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-51-2EC",
+     "5.4",
+     "18",
+     "51:1",
+     "Φ70 × 70",
+     "775 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH14-101-2EC",
+     "7.8",
+     "28",
+     "101:1",
+     "Φ70 × 70",
+     "775 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-51-2EC",
+     "16",
+     "24",
+     "51:1",
+     "Φ80 × 70",
+     "985 g",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH17-101-2EC",
+     "24",
+     "54",
+     "101:1",
+     "Φ80 × 70",
+     "985 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-51-2EC",
+     "32",
+     "69",
+     "51:1",
+     "Φ90 × 73",
+     "to confirm",
+     "40 rpm",
+     "CAN / CAN FD"
+    ],
+    [
+     "DM-JH20-101-2EC",
+     "50",
+     "102",
+     "101:1",
+     "Φ90 × 73",
+     "628 g",
+     "20 rpm",
+     "CAN / CAN FD"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Planetary joint modules",
+   "table": "EYOU — RP humanoid planetary joints",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Through-bore",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "RP40C",
+     "Φ45 × 52",
+     "Φ4",
+     "215 g",
+     "25:1",
+     "25",
+     "120",
+     "2",
+     "6"
+    ],
+    [
+     "RP50L",
+     "Φ59 × 53.5",
+     "Φ5",
+     "410 g",
+     "19.53:1",
+     "79",
+     "150",
+     "5",
+     "15"
+    ],
+    [
+     "RP50H",
+     "Φ59 × 59.5",
+     "Φ5",
+     "465 g",
+     "19.53:1",
+     "157",
+     "150",
+     "10",
+     "30"
+    ],
+    [
+     "RP70L",
+     "Φ77 × 52.5",
+     "Φ6",
+     "670 g",
+     "20:1",
+     "163",
+     "130",
+     "12",
+     "36"
+    ],
+    [
+     "RP70H",
+     "Φ77 × 58.3",
+     "Φ6",
+     "760 g",
+     "20:1",
+     "223",
+     "125",
+     "17",
+     "60"
+    ],
+    [
+     "RP90L",
+     "Φ96.5 × 56",
+     "Φ8",
+     "1075 g",
+     "21.91:1",
+     "421",
+     "115",
+     "35",
+     "120"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Planetary joint modules",
+   "table": "EYOU — PP planetary joint modules",
+   "columns": [
+    "Model",
+    "OD",
+    "Length",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "PP05",
+     "Φ32",
+     "34.2 mm",
+     "86 g",
+     "6:1",
+     "35",
+     "50",
+     "0.2",
+     "0.48"
+    ],
+    [
+     "PP08",
+     "Φ40",
+     "56.4 mm",
+     "189 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP08D",
+     "Φ40",
+     "47.7 mm",
+     "199 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP11",
+     "Φ52",
+     "67.6 mm",
+     "390 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11D",
+     "Φ52",
+     "61.2 mm",
+     "437 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11L",
+     "Φ52",
+     "84.3 mm",
+     "521 g",
+     "36:1",
+     "72",
+     "50",
+     "10",
+     "18"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Planetary joint modules",
+   "table": "DAMIAO — DM-J planetary joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "DM-J3507-2EC",
+     "0.8",
+     "3",
+     "7:1",
+     "Φ46 × 37.9",
+     "150 g"
+    ],
+    [
+     "DM-J4310-2EC V1.1",
+     "3",
+     "7",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310-2EC V1.2",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310P-2EC",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 49.05",
+     "330 g"
+    ],
+    [
+     "DM-J4310M-2EC",
+     "5.2",
+     "18",
+     "10:1",
+     "Φ57 × 53.3",
+     "370 g"
+    ],
+    [
+     "DM-J4340-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340P-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J4340P-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J6006-2EC",
+     "4",
+     "11",
+     "6:1",
+     "Φ76 × 36.5",
+     "335 g"
+    ],
+    [
+     "DM-J6216L-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6216P-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6248P-2EC",
+     "30",
+     "97",
+     "48:1",
+     "Φ76 × 62.5",
+     "660 g"
+    ],
+    [
+     "DM-J8006-2EC V1.1",
+     "8",
+     "20",
+     "6:1",
+     "Φ96 × 40",
+     "559 g"
+    ],
+    [
+     "DM-J8009-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "896 g"
+    ],
+    [
+     "DM-J8009P-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "963 g"
+    ],
+    [
+     "DM-J8520P-2EC",
+     "50",
+     "176",
+     "20:1",
+     "Φ90 × 70",
+     "1392 g"
+    ],
+    [
+     "DM-J10010L-2EC",
+     "40",
+     "120",
+     "10:1",
+     "Φ120 × 53",
+     "1375 g"
+    ],
+    [
+     "DM-J10010-2EC",
+     "40",
+     "150",
+     "10:1",
+     "Φ112 × 62",
+     "1485 g"
+    ],
+    [
+     "DM-J10422P-2EC",
+     "100",
+     "400",
+     "22:1",
+     "Φ110 × 89.9",
+     "2700 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Compact & miniature rotary joints",
+   "table": "Crabnova (Juxiedrive) — HRV1 7-DOF arms",
+   "columns": [
+    "Version",
+    "Reach",
+    "Weight (per arm)",
+    "Payload",
+    "Control",
+    "Modules",
+    "Torque sensor",
+    "Brakes"
+   ],
+   "rows": [
+    [
+     "3 kg data-collection",
+     "892 mm",
+     "4.65 kg",
+     "3 kg",
+     "CANopen / CAN-FD",
+     "RBV1 R48/R58/R68",
+     "No",
+     "No"
+    ],
+    [
+     "3 kg force-control",
+     "892 mm",
+     "5 kg",
+     "3 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R48/R58/R68",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "15 kg force-control",
+     "950 mm",
+     "20 kg",
+     "15 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R83/R102/R120",
+     "Yes",
+     "Yes"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Compact & miniature rotary joints",
+   "table": "Crabnova (Juxiedrive) — wheeled embodied robots",
+   "columns": [
+    "Model",
+    "Dimensions (mm)",
+    "Weight",
+    "DOF",
+    "Grippers",
+    "Module configuration"
+   ],
+   "rows": [
+    [
+     "A0 lifting wheeled",
+     "approx. 1640 × 550 × 600",
+     "110 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A1 lifting wheeled",
+     "approx. 1855 × 550 × 600",
+     "100 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A2 folding wheeled",
+     "approx. 1791 × 550 × 600",
+     "120 kg",
+     "30",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · waist RBV1 R120-FBN × 2, R102-FBN × 2 · base R80 × 4"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/",
+   "section": "Compact & miniature rotary joints",
+   "table": "Ti5 Robotics — PRO and PRO-S rotary actuators",
+   "columns": [
+    "Model",
+    "OD",
+    "Ratio",
+    "Rated @2000 (N·m)",
+    "Start-stop peak (N·m)",
+    "Weight",
+    "Length (mm)"
+   ],
+   "rows": [
+    [
+     "CRA-RI30-40-PRO",
+     "Φ30",
+     "51 / 101",
+     "1.8 / 2.4",
+     "3.3 / 4.8",
+     "0.19 kg",
+     "60.0"
+    ],
+    [
+     "CRA-RI40-52-PRO",
+     "Φ40",
+     "51 / 101",
+     "3.5 / 5",
+     "8.3 / 11",
+     "0.32 kg",
+     "62.0"
+    ],
+    [
+     "CRA-RI50-70-PRO",
+     "Φ50",
+     "51 / 81 / 101",
+     "6.6 / 9.6 / 9.6",
+     "23 / 29 / 34",
+     "0.66 kg",
+     "63.0"
+    ],
+    [
+     "CRA-RI60-80-PRO",
+     "Φ60",
+     "51 / 81 / 101 / 121",
+     "19.8 / 27.5 / 30 / 30",
+     "42 / 53 / 66 / 66",
+     "1.03 kg",
+     "72.5"
+    ],
+    [
+     "RI50-60-PRO-S",
+     "Φ50",
+     "51:1",
+     "6.6",
+     "23",
+     "0.45 kg",
+     "—"
+    ],
+    [
+     "RI60-70-PRO-S",
+     "Φ60",
+     "51:1",
+     "19.8",
+     "42",
+     "0.73 kg",
+     "—"
+    ],
+    [
+     "RI80-97-PRO-S",
+     "Φ80",
+     "101:1",
+     "84",
+     "194",
+     "1.50 kg",
+     "—"
+    ],
+    [
+     "RI100-120-PRO-S",
+     "Φ100",
+     "101:1",
+     "169",
+     "411",
+     "2.52 kg",
+     "—"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/planetary/",
+   "section": "Selection tables",
+   "table": "EYOU — RP humanoid planetary joints",
+   "columns": [
+    "Model",
+    "Size (OD × L)",
+    "Through-bore",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "RP40C",
+     "Φ45 × 52",
+     "Φ4",
+     "215 g",
+     "25:1",
+     "25",
+     "120",
+     "2",
+     "6"
+    ],
+    [
+     "RP50L",
+     "Φ59 × 53.5",
+     "Φ5",
+     "410 g",
+     "19.53:1",
+     "79",
+     "150",
+     "5",
+     "15"
+    ],
+    [
+     "RP50H",
+     "Φ59 × 59.5",
+     "Φ5",
+     "465 g",
+     "19.53:1",
+     "157",
+     "150",
+     "10",
+     "30"
+    ],
+    [
+     "RP70L",
+     "Φ77 × 52.5",
+     "Φ6",
+     "670 g",
+     "20:1",
+     "163",
+     "130",
+     "12",
+     "36"
+    ],
+    [
+     "RP70H",
+     "Φ77 × 58.3",
+     "Φ6",
+     "760 g",
+     "20:1",
+     "223",
+     "125",
+     "17",
+     "60"
+    ],
+    [
+     "RP90L",
+     "Φ96.5 × 56",
+     "Φ8",
+     "1075 g",
+     "21.91:1",
+     "421",
+     "115",
+     "35",
+     "120"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/planetary/",
+   "section": "Selection tables",
+   "table": "EYOU — PP planetary joint modules",
+   "columns": [
+    "Model",
+    "OD",
+    "Length",
+    "Weight",
+    "Ratio",
+    "Rated power (W)",
+    "Rated speed (rpm)",
+    "Rated torque (N·m)",
+    "Peak torque (N·m)"
+   ],
+   "rows": [
+    [
+     "PP05",
+     "Φ32",
+     "34.2 mm",
+     "86 g",
+     "6:1",
+     "35",
+     "50",
+     "0.2",
+     "0.48"
+    ],
+    [
+     "PP08",
+     "Φ40",
+     "56.4 mm",
+     "189 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP08D",
+     "Φ40",
+     "47.7 mm",
+     "199 g",
+     "36:1",
+     "36",
+     "50",
+     "1.0",
+     "2.2"
+    ],
+    [
+     "PP11",
+     "Φ52",
+     "67.6 mm",
+     "390 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11D",
+     "Φ52",
+     "61.2 mm",
+     "437 g",
+     "36:1",
+     "60",
+     "50",
+     "6.6",
+     "10"
+    ],
+    [
+     "PP11L",
+     "Φ52",
+     "84.3 mm",
+     "521 g",
+     "36:1",
+     "72",
+     "50",
+     "10",
+     "18"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/planetary/",
+   "section": "Selection tables",
+   "table": "DAMIAO — DM-J planetary joint motors",
+   "columns": [
+    "Model",
+    "Rated (N·m)",
+    "Peak (N·m)",
+    "Ratio",
+    "Frame (mm)",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "DM-J3507-2EC",
+     "0.8",
+     "3",
+     "7:1",
+     "Φ46 × 37.9",
+     "150 g"
+    ],
+    [
+     "DM-J4310-2EC V1.1",
+     "3",
+     "7",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310-2EC V1.2",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 46",
+     "306 g"
+    ],
+    [
+     "DM-J4310P-2EC",
+     "3.5",
+     "12.5",
+     "10:1",
+     "Φ57 × 49.05",
+     "330 g"
+    ],
+    [
+     "DM-J4310M-2EC",
+     "5.2",
+     "18",
+     "10:1",
+     "Φ57 × 53.3",
+     "370 g"
+    ],
+    [
+     "DM-J4340-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 53.3",
+     "362 g"
+    ],
+    [
+     "DM-J4340P-2EC",
+     "9",
+     "27",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J4340P-2EC V1.1",
+     "12",
+     "40",
+     "40:1",
+     "Φ57 × 56.5",
+     "381 g"
+    ],
+    [
+     "DM-J6006-2EC",
+     "4",
+     "11",
+     "6:1",
+     "Φ76 × 36.5",
+     "335 g"
+    ],
+    [
+     "DM-J6216L-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6216P-2EC",
+     "10",
+     "45",
+     "16:1",
+     "Φ67 × 62.5",
+     "740 g"
+    ],
+    [
+     "DM-J6248P-2EC",
+     "30",
+     "97",
+     "48:1",
+     "Φ76 × 62.5",
+     "660 g"
+    ],
+    [
+     "DM-J8006-2EC V1.1",
+     "8",
+     "20",
+     "6:1",
+     "Φ96 × 40",
+     "559 g"
+    ],
+    [
+     "DM-J8009-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "896 g"
+    ],
+    [
+     "DM-J8009P-2EC",
+     "20",
+     "40",
+     "9:1",
+     "Φ98 × 61.7",
+     "963 g"
+    ],
+    [
+     "DM-J8520P-2EC",
+     "50",
+     "176",
+     "20:1",
+     "Φ90 × 70",
+     "1392 g"
+    ],
+    [
+     "DM-J10010L-2EC",
+     "40",
+     "120",
+     "10:1",
+     "Φ120 × 53",
+     "1375 g"
+    ],
+    [
+     "DM-J10010-2EC",
+     "40",
+     "150",
+     "10:1",
+     "Φ112 × 62",
+     "1485 g"
+    ],
+    [
+     "DM-J10422P-2EC",
+     "100",
+     "400",
+     "22:1",
+     "Φ110 × 89.9",
+     "2700 g"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/size-torque-guide/",
+   "section": "By frame size: what each diameter can deliver",
+   "table": "",
+   "columns": [
+    "Frame size",
+    "Typical axis",
+    "Highest rated torque",
+    "Highest peak start–stop",
+    "Lightest build",
+    "Builds listed"
+   ],
+   "rows": [
+    [
+     "Φ30",
+     "finger, wrist roll",
+     "2.4 N·m Ti5",
+     "4.8 N·m Ti5",
+     "0.19 kg CRA-RI30-40-PRO",
+     "1"
+    ],
+    [
+     "Φ40–48",
+     "wrist",
+     "6.5 N·m Crabnova",
+     "16 N·m Crabnova",
+     "0.15 kg DM-J3507-2EC",
+     "8"
+    ],
+    [
+     "Φ50–59",
+     "wrist, elbow",
+     "20 N·m Crabnova",
+     "45 N·m Crabnova",
+     "0.306 kg DM-J4310-2EC V1.1",
+     "24"
+    ],
+    [
+     "Φ60–68",
+     "elbow, shoulder",
+     "33 N·m Crabnova",
+     "82 N·m Crabnova",
+     "0.45 kg TCHL-14",
+     "12"
+    ],
+    [
+     "Φ70–77",
+     "elbow, shoulder",
+     "30 N·m DAMIAO",
+     "97 N·m DAMIAO",
+     "0.335 kg DM-J6006-2EC",
+     "14"
+    ],
+    [
+     "Φ80–87",
+     "shoulder",
+     "84 N·m Ti5",
+     "194 N·m Ti5",
+     "0.9 kg PHA17H-101-C",
+     "14"
+    ],
+    [
+     "Φ90–99",
+     "shoulder, hip",
+     "83 N·m Tongchuan",
+     "194 N·m Tongchuan",
+     "0.559 kg DM-J8006-2EC V1.1",
+     "13"
+    ],
+    [
+     "Φ100–102",
+     "hip",
+     "169 N·m Ti5",
+     "411 N·m Ti5",
+     "2.2 kg CE-RB-R102-161-FBN",
+     "3"
+    ],
+    [
+     "Φ110–112",
+     "hip, knee",
+     "100 N·m DAMIAO",
+     "400 N·m DAMIAO",
+     "1.485 kg DM-J10010-2EC",
+     "7"
+    ],
+    [
+     "Φ120",
+     "knee, waist",
+     "300 N·m Crabnova",
+     "600 N·m Crabnova",
+     "1.375 kg DM-J10010L-2EC",
+     "6"
+    ],
+    [
+     "Φ130–131",
+     "waist",
+     "363 N·m EYOU",
+     "800 N·m EYOU",
+     "3.3 kg TCHL-32",
+     "3"
+    ],
+    [
+     "Φ142",
+     "waist",
+     "178 N·m Crabnova",
+     "484 N·m Crabnova",
+     "4.8 kg CE-RMV3-R142",
+     "4"
+    ],
+    [
+     "Φ170",
+     "waist, base",
+     "382 N·m Crabnova",
+     "841 N·m Crabnova",
+     "8 kg CE-RMV3-R170",
+     "4"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/size-torque-guide/",
+   "section": "By torque: the smallest frame that reaches it",
+   "table": "",
+   "columns": [
+    "Rated torque target",
+    "Smallest frame",
+    "Example model",
+    "Brand",
+    "Other frames that reach it"
+   ],
+   "rows": [
+    [
+     "2 N·m",
+     "Φ30",
+     "CRA-RI30-40-PRO",
+     "Ti5",
+     "Φ30 / Φ40 / Φ45"
+    ],
+    [
+     "5 N·m",
+     "Φ40",
+     "CRA-RI40-52-PRO",
+     "Ti5",
+     "Φ40 / Φ48 / Φ50"
+    ],
+    [
+     "10 N·m",
+     "Φ57",
+     "DM-J4340-2EC V1.1",
+     "DAMIAO",
+     "Φ57 / Φ58 / Φ59"
+    ],
+    [
+     "20 N·m",
+     "Φ58",
+     "CE-RB-R58-101-Lite",
+     "Crabnova",
+     "Φ58 / Φ60 / Φ68"
+    ],
+    [
+     "35 N·m",
+     "Φ80",
+     "RI80-97-PRO-S",
+     "Ti5",
+     "Φ80 / Φ83 / Φ87"
+    ],
+    [
+     "50 N·m",
+     "Φ80",
+     "RI80-97-PRO-S",
+     "Ti5",
+     "Φ80 / Φ83 / Φ90"
+    ],
+    [
+     "85 N·m",
+     "Φ100",
+     "RI100-120-PRO-S",
+     "Ti5",
+     "Φ100 / Φ102 / Φ110"
+    ],
+    [
+     "130 N·m",
+     "Φ100",
+     "RI100-120-PRO-S",
+     "Ti5",
+     "Φ100 / Φ102 / Φ120"
+    ],
+    [
+     "180 N·m",
+     "Φ120",
+     "CE-RB-R120-MAX-161-FBN",
+     "Crabnova",
+     "Φ120 / Φ130 / Φ170"
+    ],
+    [
+     "270 N·m",
+     "Φ120",
+     "CE-RB-R120-MAX-161-FBN",
+     "Crabnova",
+     "Φ120 / Φ130 / Φ170"
+    ],
+    [
+     "350 N·m",
+     "Φ130",
+     "RHU40H-130",
+     "EYOU",
+     "Φ130 / Φ170"
+    ]
+   ]
+  },
+  {
+   "page": "/joint-modules/size-torque-guide/",
+   "section": "Why the same diameter gives different torque",
+   "table": "",
+   "columns": [
+    "Model",
+    "Brand",
+    "Ratio",
+    "Rated torque",
+    "Peak start–stop",
+    "Weight"
+   ],
+   "rows": [
+    [
+     "DM-JH11-51-2EC",
+     "DAMIAO",
+     "51:1",
+     "3.2 N·m",
+     "7.8 N·m",
+     "0.345 kg"
+    ],
+    [
+     "CE-RMV3-R52",
+     "Crabnova",
+     "51:1",
+     "3.5 N·m",
+     "8.3 N·m",
+     "0.45 kg"
+    ],
+    [
+     "PHU11H-52",
+     "EYOU",
+     "51:1",
+     "3.5 N·m",
+     "8.3 N·m",
+     "0.403 kg"
+    ],
+    [
+     "RHU14L-52",
+     "EYOU",
+     "50:1",
+     "3.7 N·m",
+     "12 N·m",
+     "0.382 kg"
+    ],
+    [
+     "DM-JH11-101-2EC",
+     "DAMIAO",
+     "101:1",
+     "4.8 N·m",
+     "10.5 N·m",
+     "0.345 kg"
+    ],
+    [
+     "CE-RMV3-R52",
+     "Crabnova",
+     "101:1",
+     "5 N·m",
+     "11 N·m",
+     "0.45 kg"
+    ],
+    [
+     "PHA11H-101-C",
+     "EYOU",
+     "101:1",
+     "5 N·m",
+     "11 N·m",
+     "0.375 kg"
+    ],
+    [
+     "PHU11H-52",
+     "EYOU",
+     "101:1",
+     "5 N·m",
+     "11 N·m",
+     "0.403 kg"
+    ],
+    [
+     "TCHL-11",
+     "Tongchuan",
+     "50 / 80 / 100",
+     "5.3 N·m",
+     "19 N·m",
+     "0.37 kg"
+    ],
+    [
+     "RHU14L-52",
+     "EYOU",
+     "100:1",
+     "5.4 N·m",
+     "19 N·m",
+     "0.382 kg"
+    ]
+   ]
+  },
+  {
+   "page": "/motion-capture-gloves/",
+   "section": "Linkerbot (Linker Hand)",
+   "table": "",
+   "columns": [
+    "Model",
+    "Type",
+    "Key specs",
+    "Interface / power"
+   ],
+   "rows": [
+    [
+     "Linker MCG (LMCG1-01)",
+     "Motion capture glove",
+     "7 sensors per glove, ≤0.001° resolution, 0.1°/0.2° static accuracy",
+     "700 mAh, 6 h, 600 Hz processing / 100 Hz output, 2.4 GHz"
+    ],
+    [
+     "Linker EG (LEG1-02)",
+     "Exoskeleton teleoperation glove",
+     "15 sensors, 0.1° capture accuracy, 190 g per glove, magnetic encoders",
+     "ESP-NOW 20–30 Hz, <10 ms latency, 500 mAh / 3.2 h, Type-C"
+    ],
+    [
+     "Linker FFG (LFFG1-02/03)",
+     "Force-feedback glove",
+     "21 DOF, 16 potentiometers + 5 servos, 390 g, 0.08° accuracy",
+     "3.5 kg·cm torque output, wired 100 Hz / wireless 30 Hz, 5 V Type-C"
+    ],
+    [
+     "Linker TA (LTA1)",
+     "Teleoperation arm",
+     "14 DOF, 658 mm span, 1.4 kg, 12-bit absolute encoders",
+     "CAN 1 Mbps, 200 Hz sampling, chest-mounted"
+    ]
+   ]
+  },
+  {
+   "page": "/motion-capture-gloves/",
+   "section": "How to choose",
+   "table": "",
+   "columns": [
+    "If your priority is",
+    "Choose",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Lightest glove, longest untethered runtime",
+     "Linker MCG",
+     "MEMS sensors with on-board gesture recognition, 2.4 GHz wireless"
+    ],
+    [
+     "Rigid exoskeleton feel, no drift, lowest latency",
+     "Linker EG",
+     "15 sensors at 0.1° accuracy, ESP-NOW under 10 ms, magnetic encoders that do not drift"
+    ],
+    [
+     "Operator-side force feedback",
+     "Linker FFG",
+     "21 DOF capture plus force simulation; wired 100 Hz or wireless 30 Hz, can take power from the teleop arm"
+    ],
+    [
+     "Whole-arm pose, not just fingers",
+     "Linker TA",
+     "Chest-mounted 14 DOF teleoperation arm capturing wrist and elbow motion"
+    ]
+   ]
+  },
+  {
+   "page": "/robot-platforms/",
+   "section": "HRV1 7-DOF arms — three versions",
+   "table": "",
+   "columns": [
+    "Version",
+    "Reach",
+    "Weight (per arm)",
+    "Payload",
+    "Control",
+    "Modules",
+    "Torque sensor",
+    "Brakes"
+   ],
+   "rows": [
+    [
+     "3 kg data-collection",
+     "892 mm",
+     "4.65 kg",
+     "3 kg",
+     "CANopen / CAN-FD",
+     "RBV1 R48/R58/R68",
+     "No",
+     "No"
+    ],
+    [
+     "3 kg force-control",
+     "892 mm",
+     "5 kg",
+     "3 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R48/R58/R68",
+     "Yes",
+     "Yes"
+    ],
+    [
+     "15 kg force-control",
+     "950 mm",
+     "20 kg",
+     "15 kg",
+     "CANopen / CAN-FD / EtherCAT",
+     "RBV3 R83/R102/R120",
+     "Yes",
+     "Yes"
+    ]
+   ]
+  },
+  {
+   "page": "/robot-platforms/",
+   "section": "Wheeled embodied robots — A0 / A1 / A2",
+   "table": "",
+   "columns": [
+    "Model",
+    "Dimensions (mm)",
+    "Weight",
+    "DOF",
+    "Grippers",
+    "Module configuration"
+   ],
+   "rows": [
+    [
+     "A0 lifting wheeled",
+     "approx. 1640 × 550 × 600",
+     "110 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A1 lifting wheeled",
+     "approx. 1855 × 550 × 600",
+     "100 kg",
+     "27",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · base R80 × 4"
+    ],
+    [
+     "A2 folding wheeled",
+     "approx. 1791 × 550 × 600",
+     "120 kg",
+     "30",
+     "R48-Gri × 2",
+     "Head R48-Lite × 2 · arms R48-Lite × 3, R58-Lite × 2, R68-Lite × 2 · waist RBV1 R120-FBN × 2, R102-FBN × 2 · base R80 × 4"
+    ]
+   ]
+  },
+  {
+   "page": "/robot-platforms/",
+   "section": "Linkerbot arms — the lightweight end",
+   "table": "",
+   "columns": [
+    "Model",
+    "Joint design",
+    "DOF",
+    "Rated load",
+    "Reach",
+    "Mass",
+    "Repeatability",
+    "Interface / power"
+   ],
+   "rows": [
+    [
+     "Linker Arm A7",
+     "Integrated joint module",
+     "7",
+     "3 kg",
+     "600 mm",
+     "5.9 kg",
+     "—",
+     "CAN / RS-485, 48 V, 500 W max"
+    ],
+    [
+     "Linker Arm P7",
+     "Motor + driver + planetary reducer, integrated",
+     "7",
+     "3 kg",
+     "608 mm",
+     "5.6 kg",
+     "±0.043 mm",
+     "CAN, 48 V, 11 W idle / 258 W peak"
+    ],
+    [
+     "Linker Arm H75",
+     "Servo motor + driver + harmonic reducer, integrated",
+     "7",
+     "5 kg",
+     "640 mm",
+     "8.25 kg",
+     "±0.027 mm",
+     "CAN / CAN FD, 48 V, 1712 W peak input"
+    ]
+   ]
+  }
+ ]
+}
